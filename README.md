@@ -38,7 +38,7 @@ Hello! I'm an Informatics Engineering student passionate about technology and so
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rizqimln&show_icons=true&theme=chartreuse-dark&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true" height="165" />
 </div>
 
