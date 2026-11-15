@@ -1,25 +1,21 @@
  <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BBFF00&height=180&section=header&text=Hello%20World!&fontSize=45&fontColor=111111&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=100&section=header" width="100%" />
 </div>
 
-<table>
+<table border="0">
 <tr>
-<td width="35%" align="center" valign="middle">
-  <img src="https://github.com/USERNAME.png" width="200" style="border-radius:50%;" />
-  <h3>Rizqi</h3>
-  <p>Full-Stack Developer</p>
+<td width="32%" align="center" valign="middle">
+  <img src="https://github.com/Rizqimln.png" width="190" />
 </td>
-<td width="65%" valign="middle">
+<td width="68%" valign="middle">
 
-## 👨‍💻 About Me
+# Hey, I'm Rizqi.
 
-Hello! I'm an Informatics Engineering student passionate about technology and software development.
+**Full-Stack Developer | Tech Enthusiast**
 
-- 💻 Interested in Full-Stack Web Development
-- 🌐 Exploring modern web technologies
-- 🤖 Interested in IoT and Artificial Intelligence
-- 🌱 Currently learning Next.js and Supabase
-- 🚀 Always learning and building new projects
+I turn coffee and random ideas into something that actually works. ☕
+
+I love building things, experimenting with new technologies, and occasionally fixing bugs that I created myself.
 
 </td>
 </tr>
@@ -27,33 +23,45 @@ Hello! I'm an Informatics Engineering student passionate about technology and so
 
 ---
 
-## 🛠️ Tech Stack
+## A Little About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mysql,supabase,git,github,vscode&theme=dark" />
-</p>
+- 💻 I enjoy building websites and digital experiences.
+- 🚀 Always curious about how things work behind the scenes.
+- 🤖 Exploring the world of IoT and Artificial Intelligence.
+- 🧠 Learning something new, one bug at a time.
+- ⚡ My philosophy: Build. Break. Learn. Repeat.
 
----
-
-## 📊 GitHub Statistics
+## Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rizqimln&show_icons=true&theme=chartreuse-dark&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true" height="165" />
+
+<img src="https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
 </div>
 
 ---
 
-## 🐍 Contribution Activity
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+**BUILD. BREAK. LEARN. REPEAT.**
+
+*Made with curiosity and a little bit of caffeine.*
+
 </div>
-
----
-
-<div align="center">
-  <h3>Let's Connect!</h3>
-  <p>Always open to learning, collaboration, and new opportunities.</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BBFF00&height=100&section=footer" width="100%" />
-</div># README.ABOUT
