@@ -5,7 +5,7 @@
 <table border="0">
 <tr>
 <td width="32%" align="center" valign="middle">
-  <img src="https://github.com/Rizqimln.png" width="190" />
+  <img src="https://github.com/Rizqimln.png" width="190" border-radius = "15%" />
 </td>
 <td width="68%" valign="middle">
 
